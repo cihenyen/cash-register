@@ -1,6 +1,6 @@
 # cash-register
 ---
-id: aa2e6f85cab2ab736c9a9b24
+id: fccfe4dd9d3-81a4-418c-b38b-d10d75ffb50d
 title: Cash Register
 isRequired: true
 challengeType: 5
